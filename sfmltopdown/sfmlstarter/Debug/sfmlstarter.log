@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sfmlstarter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(107,26): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(107,26): warning C4244:         with
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(107,26): warning C4244:         [
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(107,26): warning C4244:             T=float
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(107,26): warning C4244:         ]
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(153,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(154,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(220,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(249,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(249,1): warning C4305:         with
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(249,1): warning C4305:         [
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(249,1): warning C4305:             T=float
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(249,1): warning C4305:         ]
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(250,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(250,1): warning C4305:         with
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(250,1): warning C4305:         [
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(250,1): warning C4305:             T=float
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(250,1): warning C4305:         ]
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(278,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\c00239718\Desktop\sfmltopdown\sfmlstarter\Game.cpp(302,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sfmlstarter.vcxproj -> C:\Users\c00239718\Desktop\sfmltopdown\Debug\sfmltopdown.exe
